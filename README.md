@@ -4,8 +4,8 @@ Here you can get the loader of **PyV8** used by [Emmet](https://github.com/serge
 
 **This is thought to be used for Sublime Plugin creation!**
 
-In fact with this module, your plugin will **automaticaly download/upgrade** the PyV8 binaries
-from here [emmetio/pyv8-binaries](https://github.com/emmetio/pyv8-binaries)
+In fact with this module, your plugin will **automaticaly install/upgrade** the PyV8 binaries
+from here [emmetio/pyv8-binaries](https://github.com/emmetio/pyv8-binaries).
 
 The "sublime-text-plugin-example" folder contains an example of a simple plugin
 
